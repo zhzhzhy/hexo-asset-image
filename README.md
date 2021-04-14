@@ -1,7 +1,7 @@
 # hexo-asset-image
-Edit by Geekcat
+*Edit by Geekcat*
 
-Only used by old blog
+**Only used by campatible Hexo blog!!!!**
 
 Give asset image in hexo a absolutely path automatically
 
